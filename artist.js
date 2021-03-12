@@ -58,7 +58,7 @@ function albumFiller(data) {
           <p class="card-text text-center">
           ${album.title}
           </p>
-          <p class="text-center"></p>
+          <p class="text-center">"Queen"</p>
         </div>
       </div>
     </a>
