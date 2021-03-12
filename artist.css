@@ -49,8 +49,10 @@ p.small-size {
 }
 
 .bg-img {
-  background: url(https://www.queenonline.com/global/uploads/86.jpg) no-repeat center center/cover;
-  box-shadow: inset 100px 100px 200px rgba(0, 0, 0, 0.9), inset -100px -100px 200px rgba(0, 0, 0, 0.85);
+  background: url(https://www.queenonline.com/global/uploads/86.jpg) no-repeat
+    center center/cover;
+  box-shadow: inset 100px 100px 200px rgba(0, 0, 0, 0.9),
+    inset -100px -100px 200px rgba(0, 0, 0, 0.85);
 }
 
 div ul li a {
@@ -303,7 +305,8 @@ div.yeni-ler {
 
   .bg-img {
     background: url(assets/about14.jfif) no-repeat center center/cover;
-    box-shadow: inset 100px 100px 200px rgba(0, 0, 0, 0.5), inset -100px -100px 200px rgba(0, 0, 0, 0.5);
+    box-shadow: inset 100px 100px 200px rgba(0, 0, 0, 0.5),
+      inset -100px -100px 200px rgba(0, 0, 0, 0.5);
   }
 
   #sidebar {
@@ -447,4 +450,8 @@ div.yeni-ler {
   div.col-7 p {
     margin-bottom: 4px;
   }
+}
+
+.custom-img-css {
+  height: 250px;
 }
