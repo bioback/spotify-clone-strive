@@ -33,10 +33,13 @@ body {
 
 .sidebar-links,
 .artist-name,
-.album-year-songs,
 #desktop-logo,
 .artist-name,
 .song-duration {
+  color: #b3b3b3;
+}
+
+#album-year-songs{
   color: #b3b3b3;
 }
 
